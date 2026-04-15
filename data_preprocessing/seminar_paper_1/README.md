@@ -1,15 +1,15 @@
 # Selekcija instanci u masinskom ucenju
 
-**Seminarski rad I** — Elektronski fakultet, Univerzitet u Nisu
+**Seminarski rad I** - Elektronski fakultet, Univerzitet u Nisu
 
 ## O cemu se radi
 
 Selekcija instanci je tehnika predobrade podataka koja iz trening skupa bira reprezentativan podskup — manji, cistiji, a jednako (ili vise) efikasan za klasifikaciju. Rad pokriva cetiri kategorije metoda:
 
-- **Kondenzacija** (CNN, RNN) — drasticno smanjuje broj instanci zadrzavanjem samo onih na granicama klasa
-- **Uredjivanje** (ENN, RENN, All k-NN) — uklanja sumne i pogresno oznacene instance radi poboljsanja tacnosti
-- **Hibridne metode** (DROP3, ICF) — kombinuju oba pristupa za optimalan balans redukcije i kvaliteta
-- **Evolucione metode** (GA, PSO) — koriste meta-heuristike za globalnu optimizaciju selekcije
+- **Kondenzacija** (CNN, RNN) - drasticno smanjuje broj instanci zadrzavanjem samo onih na granicama klasa
+- **Uredjivanje** (ENN, RENN, All k-NN) - uklanja sumne i pogresno oznacene instance radi poboljsanja tacnosti
+- **Hibridne metode** (DROP3, ICF) - kombinuju oba pristupa za optimalan balans redukcije i kvaliteta
+- **Evolucione metode** (GA, PSO) - koriste meta-heuristike za globalnu optimizaciju selekcije
 
 ## Obim projekta
 
@@ -18,7 +18,7 @@ Selekcija instanci je tehnika predobrade podataka koja iz trening skupa bira rep
 
 ## Dataset
 
-- **Lokalni fajl:** `winequality-red.csv`
+- **Lokalni fajl:** `data/winequality-red.csv`
 - **Izvor (Kaggle):**
   - https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
 - 1599 instanci, 11 fizicko-hemijskih atributa, vise-klasna ocena kvaliteta (3–8)
