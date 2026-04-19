@@ -211,3 +211,5 @@ __marimo__/
 
 # Data files (too large for git)
 machine_learning/03_steam_reviews/data/steam_reviews.csv
+data_preprocessing/seminar_paper_2/data/Training/
+data_preprocessing/seminar_paper_2/data/Testing/
