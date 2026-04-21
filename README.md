@@ -22,7 +22,7 @@ The repository is organized into directories corresponding to specific courses. 
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 The projects in this repository primarily use the **Python** ecosystem:
 
